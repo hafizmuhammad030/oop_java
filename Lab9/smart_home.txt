@@ -1,0 +1,10 @@
+Smart Home: My Home
+Lights:
+Living Room Light, On, Brightness: 75
+Kitchen Light, Off, Brightness: 30
+
+Smart Home: Vacation Home
+Lights:
+Bedroom Light, On, Brightness: 60
+Garden Light, Off, Brightness: 40
+
